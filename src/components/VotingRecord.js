@@ -6,7 +6,7 @@ class VotingRecord extends Component {
         this.state = {  }
     }
     render() { 
-        return (  );
+        return ( <h1>Hi</h1> );
     }
 }
  
