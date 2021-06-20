@@ -1,0 +1,40 @@
+.record_card {
+
+
+}
+
+.voterLeft {
+    border-right: 1px solid #e3e3e3;
+    background-color: #e7e7e7;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    
+    
+}
+
+.voterInfo { 
+    text-align: center;
+}
+
+
+.name {
+    font-weight: bold;
+    color: #081D56;
+    text-align: center;
+
+}
+
+.address {
+    font-size: 12px;
+}
+
+.voterTags {
+    text-align: center;
+    padding: 0;
+
+}
+
+.badge {
+    font-size: 10px;
+
+}
