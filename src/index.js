@@ -7,7 +7,7 @@ import VotingRecord from "./components/VotingRecord";
 ReactDOM.render(
   <>
     <div className="container">
-      <VotingRecord />
+      {/* <VotingRecord /> */}
     </div>
 
     <App />
