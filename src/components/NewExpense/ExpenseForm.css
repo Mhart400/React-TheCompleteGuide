@@ -26,3 +26,8 @@
     background-color: inherit;
     width: 100%;
   }
+
+
+  .new-expense__buttons {
+    display: inline;
+  }
