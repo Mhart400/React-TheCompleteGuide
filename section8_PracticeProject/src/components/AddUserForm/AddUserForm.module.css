@@ -1,0 +1,18 @@
+.input {
+    width: 100%;
+    margin: 5px 0 10px 0;
+}
+
+.label {
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+    
+}
+
+button {
+    background-color: rgb(78, 0, 102);
+    color: white;
+    padding: 5px 10px;
+    border: 0;
+}

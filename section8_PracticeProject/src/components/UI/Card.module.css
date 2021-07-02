@@ -1,0 +1,10 @@
+.card {
+    color: navy;
+    border-radius: 5px;
+    box-shadow: 2px 1px 5px rgb(24, 24, 24);
+    margin: 20px auto;
+    padding: 1rem;
+    background-color: white;
+    width: 50%;
+
+}
