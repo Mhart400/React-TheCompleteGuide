@@ -1,4 +1,13 @@
 .appBackground {
     background: rgb(29, 29, 29);
     padding: 5% 0;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+}
+
+.hide {
+    display: none;
+    background: red;
+    opacity: 0.5;
 }

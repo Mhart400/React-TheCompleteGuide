@@ -13,7 +13,7 @@ const UserList = props => {
     
     return (
         <Card className={styles.div}>
-            {test.map((user) => (
+            {props.users.map((user) => (
                 <User username={user.username} age={user.age} />
             ))}
         </Card>

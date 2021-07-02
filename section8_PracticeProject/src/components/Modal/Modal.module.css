@@ -1,0 +1,59 @@
+.modal {
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    
+    position: fixed;
+    top: 0;
+    left: 0;
+
+}
+
+.hideModal {
+    display: none;
+}
+
+.showModal {
+    display: block;
+}
+
+
+.card {
+    border-radius: 10px;
+    margin: auto;
+    width: 50%;
+    z-index: 2;
+    background: white;
+    
+}
+
+.header {
+    background: purple;
+    border-radius: 10px 10px 0 0;
+}
+
+.title {
+    padding: 10px;
+    color: white;
+}
+
+.body {
+    background: white;
+    color: black;
+    position: relative;
+    padding: 5px 10px;
+    border-radius: 0 0 10px 10px;
+    overflow: hidden;
+    
+}
+
+.text {
+
+}
+
+.button {
+    margin: 10px;
+    float: right;
+    
+    
+}
